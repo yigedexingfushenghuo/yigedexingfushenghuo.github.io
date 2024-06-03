@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yige.huashizi.com/posts/3535079857.html</loc>
+    
+    <lastmod>2024-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yige.huashizi.com/posts/3901275473.html</loc>
     
     <lastmod>2024-05-28</lastmod>
@@ -1378,6 +1387,13 @@
   
   <url>
     <loc>https://yige.huashizi.com/categories/IT/IT-C/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yige.huashizi.com/categories/IT/IT-Shell/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
